@@ -20,4 +20,3 @@ console.log("Número pares:")
 //CTRL + TAB =  Para frente;
 //CTRL + X = EXCLUIR LINHAS;
 //ALT + SHIFT + SETA PARA BAIXO = DUPLICA AS LINHAS VARIAS VEZES;
-//
