@@ -1,0 +1,45 @@
+@font-face {
+  font-family:Roboto-Regular;
+  src: url(./Fonts/Roboto-Regular.ttf);
+}
+
+@font-face {
+    font-family:Montserrat-VariableFont;
+    src: url(./Fonts/Montserrat-VariableFont_wght.ttf);
+}
+
+h1 {
+    font-family: Montserrat-VariableFont;
+    font-size: 35px;
+    margin-left: 30px;
+}
+.date {
+    font-family: Roboto-Regular;
+    color: #008080;
+    font-size: 15px;
+    margin-left: 30px;
+}
+p{
+    margin: 30px;
+}
+body {
+    background-color: #fffafa;
+    width: 70%;
+    margin-left: 19%;
+}
+
+.one {
+    margin-top: 50px;
+}
+
+.two {
+    margin-top: 50px;
+}
+
+.tree {
+    margin-top: 50px;
+}
+
+hr {
+    margin-top: 50px;
+}
