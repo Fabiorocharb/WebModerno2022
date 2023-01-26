@@ -4,6 +4,10 @@ h1 {
     text-align: center;
 }
 
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   
+}
 .first {
     font-family: 'Courier New', Courier, monospace;
 }
@@ -18,4 +22,8 @@ h1 {
 
 .four {
     font-family: 'Courier New', Courier, monospace;
+}
+
+.five {
+    font-family: 'Courier New', Courier, monospace;    
 }
