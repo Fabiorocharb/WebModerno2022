@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgba(228, 217, 119, 0.685);
+}
+
+h1 {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 2rem;
+  color: black;
+  margin-top: 20%;
+}
+
+p {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 1rem;
+  color: black;
+}
