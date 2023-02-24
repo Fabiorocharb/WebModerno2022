@@ -1,0 +1,46 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+header {
+    display: flexbox;
+    position: relative;
+    background-color: black;
+    padding: 4%;
+}
+
+section {
+    display: flexbox;
+    position: relative;
+    background-color: green;
+    padding: 7%; 
+    width: 80%;
+}
+article {
+    display: flexbox;
+    position: relative;
+    background-color: burlywood;
+    width: 80%;
+    padding: 7%;
+}
+aside {
+    display: flexbox;
+    position: absolute;
+    background-color: chocolate;
+    width: 20%;
+    margin-left: 80%;
+    margin-top: -30.6%;
+    padding-top: 29.7%;
+}
+
+footer {
+    display: flexbox;
+    position: relative;
+    background-color: black;
+    width: 100%;
+    padding: 3.7%;
+}
+
+@media

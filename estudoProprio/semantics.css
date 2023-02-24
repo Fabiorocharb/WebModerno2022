@@ -1,37 +1,35 @@
-
+* {
+  margin: 0;
+  padding: 0;
+  display: inline-flexbox;
+}
 header {
-    border: 2px solid black;
-    text-align: center;
-    padding: 20px;
+  border: 2px solid black;
+  text-align: center;
+  padding: 20px;
 }
 nav {
-    border: 3px solid rgba(0, 137, 250, 0.514);
-    
+  border: 3px solid rgba(0, 137, 250, 0.514);
 }
 section {
-    border: 3px solid rgb(223, 26, 196);
-    margin-right: 50%;
-    margin-bottom: 5px;
+  border: 3px solid rgb(223, 26, 196);
+  margin-right: 50%;
 }
 article {
-    border: 3px solid rgb(13, 16, 228);
-    display: flexbox;
-    margin-right: 50%;
-    margin-bottom: 5px;
+  border: 3px solid rgb(13, 16, 228);
+  margin-right: 50%;
 }
 
 aside {
-    border: 3px solid rgb(16, 231, 131);
-    height: 100%;
-
+  border: 3px solid rgb(16, 231, 131);
+  height: 100%;
 }
 
 figcaption {
-    border: 3px solid tomato;
+  border: 3px solid tomato;
 }
 
-    
 footer {
-    border: 3px solid chartreuse;
-    padding: 20px;
+  border: 3px solid chartreuse;
+  padding: 20px;
 }
